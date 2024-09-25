@@ -1,4 +1,4 @@
-package datastructure.trie;
+package datastructure.trie.largestcommonprefix;
 
 public class TriePrefixTree {
 	

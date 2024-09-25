@@ -1,4 +1,4 @@
-package datastructure.window.slider;
+package datastructure.window.slider.maximumsum;
 
 public class MaximunSumSubArray {
 	
